@@ -1,0 +1,8 @@
+E:\Asp\New folder (2)\opp\opp\bin\Debug\opp.exe.config
+E:\Asp\New folder (2)\opp\opp\bin\Debug\opp.exe
+E:\Asp\New folder (2)\opp\opp\bin\Debug\opp.pdb
+E:\Asp\New folder (2)\opp\opp\obj\Debug\opp.csproj.AssemblyReference.cache
+E:\Asp\New folder (2)\opp\opp\obj\Debug\opp.csproj.SuggestedBindingRedirects.cache
+E:\Asp\New folder (2)\opp\opp\obj\Debug\opp.csproj.CoreCompileInputs.cache
+E:\Asp\New folder (2)\opp\opp\obj\Debug\opp.exe
+E:\Asp\New folder (2)\opp\opp\obj\Debug\opp.pdb

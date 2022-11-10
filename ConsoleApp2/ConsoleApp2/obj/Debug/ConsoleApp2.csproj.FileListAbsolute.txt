@@ -1,0 +1,8 @@
+E:\Asp\New folder (2)\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Asp\New folder (2)\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Asp\New folder (2)\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Asp\New folder (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\Asp\New folder (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+E:\Asp\New folder (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Asp\New folder (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Asp\New folder (2)\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
