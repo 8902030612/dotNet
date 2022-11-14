@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Asp\\New folder (2)\\mvcTest\\mvcTest\\mvcTest.csproj",
+      "projectUniqueName": "E:\\Asp\\dotNet\\mvcTest\\mvcTest\\mvcTest.csproj",
       "projectName": "mvcTest",
-      "projectPath": "E:\\Asp\\New folder (2)\\mvcTest\\mvcTest\\mvcTest.csproj",
+      "projectPath": "E:\\Asp\\dotNet\\mvcTest\\mvcTest\\mvcTest.csproj",
       "packagesPath": "C:\\Users\\dassa\\.nuget\\packages\\",
-      "outputPath": "E:\\Asp\\New folder (2)\\mvcTest\\mvcTest\\obj\\",
+      "outputPath": "E:\\Asp\\dotNet\\mvcTest\\mvcTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dassa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

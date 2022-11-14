@@ -5,15 +5,14 @@ namespace mvcTest.Controllers
 {
     public class StudentController : Controller
     {
-        public IActionResult ShowStudentDet()
+        public IActionResult ShowStudentDet(Student studentmodel)
         {
-            Studentmodel student = new Studentmodel()
-            {
+           
                 int StudentId = studentmodel.StudentId;
                 string StudentName = studentmodel.StudentName;
                 string Department = studentmodel.Department;
                 string Course = studentmodel.Course;
-            };
+            
             
             
 
