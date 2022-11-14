@@ -17,10 +17,10 @@ public partial class StudentDbContext : DbContext
 
     public virtual DbSet<StudentTbl> StudentTbls { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    
-      =>  optionsBuilder.UseSqlServer("Server=DESKTOP-KU4EUIB\\SQLEXPRESS;Database=StudentDB;Integrated Security=True;Encrypt = False");
-    
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder) => optionsBuilder.UseSqlServer("Server=DESKTOP-KU4EUIB\\SQLEXPRESS;Database=StudentDB;Integrated Security=True;Encrypt = False");
+
+
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
